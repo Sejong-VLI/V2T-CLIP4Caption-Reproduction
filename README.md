@@ -39,10 +39,10 @@ wget -P ./weight https://github.com/microsoft/UniVL/releases/download/v0/univl.p
 ```
 
 ## Extract the Video Features
-Follow the instructions written [here](https://github.com/willyfh/clip4caption/tree/main/feature_extractor)
+Follow the instructions written [here](https://github.com/Sejong-VLI/V2T-CLIP4Caption-Reproduction/tree/main/feature_extractor)
 
 ## Training & Evaluation
-The shell scripts to train and to evaluate the model is provided [here](https://github.com/willyfh/clip4caption/tree/main/scripts). You may need to modify the scripts as per your needs.
+The shell scripts to train and to evaluate the model is provided [here](https://github.com/Sejong-VLI/V2T-CLIP4Caption-Reproduction/tree/main/scripts). You may need to modify the scripts as per your needs.
 
 ## References
 This repository is implemented based on [UniVL](https://github.com/microsoft/UniVL) and [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip)
