@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/5786636/210189414-aef876e0-38ab-4026-8ece-4a1f803a1005.png)
 
-**Note**: The implementation are not considering TSN sampling as in the CLIP4Caption paper. However, even without TSN sampling, i.e., only using original sampling method in CLIP4Clip, it is found that the similar (even slightly better) performance results can be achieved as in the CLIP4Caption paper. While reproducing the results, it was observed that using TSN sampling could not achieve the similar performance results as in the paper.
+**Note**: The implementation is not considering the TSN sampling as in the CLIP4Caption paper. However, even without the TSN sampling, i.e., only using the original sampling method in CLIP4Clip, it is found that similar (even slightly better) performance results can be achieved as in the CLIP4Caption paper. While reproducing the results, it was observed that using the TSN sampling could not achieve the similar performance results as in the paper.
 
 **Paper**: Mingkang Tang, Zhanyu Wang, Zhenhua LIU, Fengyun Rao, Dian Li, and Xiu Li. 2021. CLIP4Caption: CLIP for Video Caption. In Proceedings of the 29th ACM International Conference on Multimedia (MM '21). Association for Computing Machinery, New York, NY, USA, 4858–4862. > https://dl.acm.org/doi/10.1145/3474085.3479207
 
