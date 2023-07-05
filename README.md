@@ -8,7 +8,7 @@
 
 
 ## Setup
-Execute below scripts in the main folder, to avoid download conflict when doing distributed pretrain.
+Execute below scripts in the main folder, to avoid a download conflict when doing distributed pretraining.
 
 ```bash
 mkdir modules/bert-base-uncased
